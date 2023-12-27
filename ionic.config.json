@@ -1,0 +1,7 @@
+{
+  "name": "bucetad",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
